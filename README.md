@@ -2,6 +2,9 @@
 
 We use this Sveltekit and tailwind boilerplate throughout the whole course.
 
+
+# test bro
+hello this is a test
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
